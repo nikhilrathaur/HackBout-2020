@@ -1,3 +1,3 @@
 # HackBout-2020
-
-Name Your Projrct folder with your Team ID followed by your team name 
+https://github.com/nikhilrathaur/Smart-Town-Surveillance-and-Analysis-System
+Team 43, Runtime Terror 
